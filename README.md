@@ -2,3 +2,7 @@
 
 This is a game created using harry potter API.
 
+**Python coding steps include:**
+
+
+
